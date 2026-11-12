@@ -1,0 +1,17 @@
+# .NET / Visual Studio / VS Code
+bin/
+obj/
+.vs/
+.vscode/
+*.user
+*.suo
+
+# React / Node
+node_modules/
+client/node_modules/
+client/dist/
+.env
+.env.local
+
+# macOS
+.DS_Store

@@ -1,0 +1,11 @@
+@WorkspaceBooking_HostAddress = http://localhost:5084
+
+GET {{WorkspaceBooking_HostAddress}}/openapi/v1.json
+Accept: application/json
+
+###
+
+GET {{WorkspaceBooking_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
